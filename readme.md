@@ -1,4 +1,4 @@
-﻿**Take Home Assignment**
+**Take Home Assignment**
 
 **Task**
 
@@ -13,7 +13,6 @@ Crazy Passenger Problem
 - Feel free to write classes, functions in any programming language you want. 
 - For eg. There will be an api which will take 100 passengers and 100 seats and return true or false (based on if last passenger got his/her own seat). This simulation can then be run for thousands or millions of times and then based on the true/false counts, the probability can be calculated. If you run the simulation 100 times and 50 times you get “true” then the probability is 0.5
 - Write unit tests
-- Send the code in text files (with .txt extension) to *anurag.ambekar@credit-suisse.com* and *boris.rybalkin@credit-suisse.com* by the suggested time frame
 - Include a readme file if required
 - Just to reiterate, we are not interested in the mathematical solution. We want to arrive at the answer by running a simulation multiple times which will take 100 passengers and make them seat in the airplane. The more you the run the simulation, more accurate the answer will be.
 - After a review of the assignment, we will set up a follow up Zoom call to discuss the implementation. 
